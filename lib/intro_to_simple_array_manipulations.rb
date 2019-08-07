@@ -8,6 +8,6 @@ def using_unshift(array, element)
   bouroughs_in_nyc.unshift(element)
 end
 
-def using_pop
+def using_pop(array)
   bouroughs_in_nyc.pop
 end
