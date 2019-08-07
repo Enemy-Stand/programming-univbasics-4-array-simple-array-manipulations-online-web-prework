@@ -13,7 +13,7 @@ def using_pop(array)
   array.pop
 end
 
-def pop_with_args(array)
+def pop_with_args(array, element)
   dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array.drop(2)
 end
