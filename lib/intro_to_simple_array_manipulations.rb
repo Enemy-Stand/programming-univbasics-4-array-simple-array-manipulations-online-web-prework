@@ -18,5 +18,7 @@ def pop_with_args(array)
   array.pop_with_args
 end
 
-def using_unshift
-  
+def using_shift
+  my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  array.shift
+end
