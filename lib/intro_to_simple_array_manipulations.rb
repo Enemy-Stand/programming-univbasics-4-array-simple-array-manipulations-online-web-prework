@@ -34,7 +34,7 @@ def using_concat(array1, array2)
   array = array1.concat(array2)
 end
 
-def using_insert(array, element)
+def using_insert(array1, element)
   list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
-  array = array.insert(2, element)
+  array = array1.insert(2, element)
 end
