@@ -38,3 +38,6 @@ def using_insert(array1, element)
   list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
   array = array1.insert(4, element)
 end
+
+def using_uniq(array)
+  
